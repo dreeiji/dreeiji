@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is André!
 ==================================================================================================================================
 
-Digital Design & Fullstack Developer
+Digital Designer & Fullstack Developer
 ---------------------------------
 
 I am an enthusiastic Digital Designer with a passion for creating visually appealing and functional solutions for design problems. Additionally, I am currently studying programming to expand my skills and capabilities. My goal is to combine my design skills with programming to create even more enhanced and effective digital experiences. I am always looking for new challenges and opportunities to grow and learn, so feel free to contact me for collaborations or interesting projects.
